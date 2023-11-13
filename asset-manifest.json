@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pdf_uploder/static/css/main.e6c13ad2.css",
+    "main.js": "/pdf_uploder/static/js/main.752350c8.js",
+    "static/js/787.98347e04.chunk.js": "/pdf_uploder/static/js/787.98347e04.chunk.js",
+    "index.html": "/pdf_uploder/index.html",
+    "main.e6c13ad2.css.map": "/pdf_uploder/static/css/main.e6c13ad2.css.map",
+    "main.752350c8.js.map": "/pdf_uploder/static/js/main.752350c8.js.map",
+    "787.98347e04.chunk.js.map": "/pdf_uploder/static/js/787.98347e04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.752350c8.js"
+  ]
+}
